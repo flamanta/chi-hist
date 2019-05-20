@@ -1,5 +1,5 @@
-# Chinese History 中华历史
-从夏朝至清朝，近四千年之历史。
+# 中华历史
+&#x1f310; Language: [English](README_en.md) | [繁体中文](README_zhTW.md)
 
 > 古今史，全在兹；載治亂，知興衰。<br>
 史雖繁，讀有次；史記一，漢書二。<br>
